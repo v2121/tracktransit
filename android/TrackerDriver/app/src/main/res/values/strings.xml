@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrackTransit Driver</string>
+    <string name="title_activity_maps">TrackTransit</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="invalid_pin">Please enter a valid pin</string>
+    <string name="invalid_vehicle_number">Vehicle number cannot be empty</string>
+    <string name="end_trip_confirmation">Do you want to end the trip?</string>
+    <string name="ok">OK</string>
+</resources>

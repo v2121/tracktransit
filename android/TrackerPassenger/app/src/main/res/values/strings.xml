@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TrackTransit Passenger</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="ok">OK</string>
+    <string name="invalid_username_or_password">Invalid username or password</string>
+    <string name="logout">Log Out</string>
+    <string name="near_me">View buses near me</string>
+    <string name="with_number">View buses with number</string>
+    <string name="error_in_fetching_routes">Error in getting bus numbers</string>
+    <string name="all_near_me">All buses near me</string>
+</resources>
